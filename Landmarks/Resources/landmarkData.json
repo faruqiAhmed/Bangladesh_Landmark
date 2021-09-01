@@ -1,0 +1,89 @@
+[
+    {
+        "name": "National Martyr's Monument",
+        "category": "Lakes",
+        "city": "Dhaka",
+        "state": "huj ",
+         
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Jatiyo Sriti Shoudho It is erected at a distance of about 30 kms from Dhaka at Savar to pay homage to the Martyrs who laid their lives during the Bangladesh liberation war in 1971. It is a beautiful memorial amidst well laid garden. It is a must visit place in Bangladesh. The road from Dhaka always remains crowded due to long distance buses. The 150 high memorial designed by Syed Mainul Hossain was inaugurated in 1982. ",
+        
+        "coordinates": {
+            "longitude": 90.2548,
+            "latitude": 23.9112
+        },
+        "imageName": "national"
+    },
+    {
+        "name": "Karnaphuli River",
+        "category": "Rivers",
+        "city": "Chittagong",
+        "state": "Bangladesh Rangamati",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Karnaphuli River",
+        "coordinates": {
+            "longitude":92.1733,
+            "latitude": 22.6573
+        },
+        "imageName": "rangamati"
+    },
+    {
+        "name": "Kaptai Lake",
+        
+        "category": "Lakes",
+        "city": "Chittagong",
+        "state": "Bangladesh Rangamati",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Kaptai Lake",
+        "coordinates": {
+            "longitude":92.1733,
+            "latitude": 22.6573
+        },
+        "imageName": "img2"
+    },
+   
+    {
+        "name": "Dhanmondi Lake",
+        "category": "Lakes",
+        "city": "Dhaka",
+        "state": "Dhaka",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Dhanmondi Lake Park",
+        "coordinates": {
+            "longitude": 90.3776,
+            "latitude": 23.7455
+        },
+        "imageName": "im3"
+    },
+    
+    {
+           "name": "Nilgiri",
+           "category": "Mountains",
+           "city": "Bandarban",
+           "state": "Bandarban",
+           "id": 1004,
+           "isFeatured": true,
+           "isFavorite": true,
+           "park": "Nilgiri Bandarban Bangladesh",
+           "coordinates": {
+               "longitude": 92.3686,
+               "latitude": 21.8311
+           },
+           "imageName": "nilgiri-bandarban"
+       },
+    
+    
+   
+   
+    
+    
+    
+]
